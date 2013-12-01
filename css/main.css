@@ -1,0 +1,47 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+/*STRUCUTRE CSS*/
+.jumbotron{
+	position: relative;
+	background: url('../img/StrctImg/NJIT.jpg')  center center;
+	background-size: cover;
+}
+
+/*FONTS*/
+
+@font-face{
+	font-family: CollegeFont;
+	src: url('collegiateHeavyOutlineMedium.ttf');
+}
+
+.CollegeText {
+	font-family: CollegeFont;
+}
+
+/**/
+.ImgBorder {
+	border: 3px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
